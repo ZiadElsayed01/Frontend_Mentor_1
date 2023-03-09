@@ -62,6 +62,7 @@ body {
 .task1 .sec1 .text p {
   width: 345px;
   color: var(--Dark-Grayish-Magenta);
+  margin: 0 auto;
 }
 .rate {
   position: relative;
