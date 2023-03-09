@@ -56,7 +56,7 @@ body {
 }
 .task1 .sec1 .text h1 {
   width: 345px;
-  font-size: 3em;
+  font-size: 3.5em;
   color: var(--Very-Dark-Magenta);
 }
 .task1 .sec1 .text p {
